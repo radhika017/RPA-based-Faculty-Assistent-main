@@ -67,12 +67,9 @@ UiPath provides a comprehensive set of tools and features that make it well-suit
 ### Built With
 
 The technologies ,tools and the framework used to develop this project are listed below<br>
-*  [![Computer Vision](https://img.shields.io/badge/Computer_Vision-333333?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_vision)
-* [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-* [![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning)
-* [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-* [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
-* [![Cascade Trainer](https://img.shields.io/badge/Cascade_Trainer-00AEEF?style=for-the-badge)](https://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html)
+* [![UiPath](https://img.shields.io/badge/UiPath-333333?style=for-the-badge)](https://www.uipath.com/)
+* [![Work Fusion](https://img.shields.io/badge/Work_Fusion-5C3EE8?style=for-the-badge&logo=workfusion&logoColor=white)](https://www.workfusion.com/)
+* [![Blue Prism](https://img.shields.io/badge/Blue_Prism-FF6F61?style=for-the-badge&logo=blueprism&logoColor=white)](https://www.blueprism.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -130,7 +127,8 @@ UiPath Robot serves as the execution agent for processes created in UiPath Studi
 <ul>
  
   <li><strong>Server:</strong></li><br>
-  <p>A robust server infrastructure to host the traffic detection system. Consider using a high-performance server with sufficient processing power and memory to handle real-time data processing and analysis.</p>
+  <p>A robust server infrastructure is essential to host the RPA-based faculty assistant system. It is recommended to use a high-performance server with ample processing power and memory to efficiently handle real-time data processing and analysis.
+</p>
   <br>
 
   <li><strong>Processor:</strong></li><br>
@@ -138,7 +136,7 @@ UiPath Robot serves as the execution agent for processes created in UiPath Studi
   <br>
 
   <li><strong>RAM:</strong></li><br>
-  <p>Adequate RAM to support the concurrent execution of computer vision algorithms, deep learning models, and database operations, ensuring optimal performance during peak usage.</p>
+  <p>Ensure adequate RAM to support the concurrent execution of computer vision algorithms, deep learning models, and database operations. This will ensure optimal performance, especially during peak usage periods.</p>
   <br>
 
   <li><strong>Storage:</strong></li><br>
@@ -150,10 +148,12 @@ UiPath Robot serves as the execution agent for processes created in UiPath Studi
   
   <ul>
     <li><strong>Operating System</strong></li>
-    <p>Linux or Windows Server, depending on the chosen software and infrastructure. Linux is often preferred for its stability and security in server environments.</p>
+    <p>Choose an appropriate operating system based on the software and infrastructure requirements. Options include Linux or Windows Server. Linux is often preferred for its stability and security in server environments.
+</p>
     <br>
    <li><strong>Libraries and Frameworks:</strong></li>
-    <p>Utilize computer vision libraries (OpenCV) for image processing, deep learning frameworks (TensorFlow or keras) for traffic violation analysis, and web development frameworks (Flask or Django) for building the user       interface.</p>
+    <p>Utilize specialized libraries and frameworks to enhance the project's capabilities. For image processing, leverage computer vision libraries such as OpenCV. Employ deep learning frameworks like TensorFlow or Keras for traffic violation analysis. When developing the user interface, consider using web development frameworks like Flask or Django.
+</p>
     <br>
     <li><strong>Networking:</strong></li>
     <p>Implement secure networking protocols to facilitate communication between the server, surveillance cameras, and other connected devices. Consider encryption mechanisms to ensure data privacy and integrity.
@@ -168,46 +168,41 @@ UiPath Robot serves as the execution agent for processes created in UiPath Studi
 Follow these steps to install and set up the :
 <ul>
  
-  <li>Set Up Python Environment:</li><br>
+  <li>Download and install UiPath Studio</li><br>
   
-  - Install Python on your system if not already installed. You can download it from the official <b> Python website.</b>
+  - Navigate to the official UiPath website and download UiPath Studio, the development environment for creating RPA workflows. <b> UiPath Studio </b>
   <br>
   
-  <li>Install Required Libraries:</li><br>
+  <li>Set Up Development Environment</li><br>
   
-  - Install OpenCV  using pip:
-
-      pip install opencv <br>
+  -Create a new project in UiPath Studio specifically for the Faculty Assistant project.<br>
     <br>
   
-  <li>Download Pre-trained Models:</li><br>
+  <li>Develop Automation Workflows:</li><br>
 
-  - Choose a pre-trained model for traffic violation system detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
+  - Use UiPath Studio to design and develop automation workflows tailored to the requirements of the Faculty Assistant project.
   <br>
 
-  <li>Write Traffic Violation System Detection Code: </li><br>
+  <li>Test Automation Workflows </li><br>
 
-  - Create a Python script or Jupyter notebook to perform traffic violation system for  detection using OpenCV . Load the pre-trained model, process video frames, and detect crowds.
+  - Test the automation workflows to ensure they function correctly and achieve the desired outcomes.
  
   <br>
 
-  <li>Test Your Traffic Violation  Detection System:  </li><br>
+  <li>Deploy Automation Workflows</li><br>
 
-  - Use sample videos or webcam input to test your crowd detection system.
+  - Install UiPath Robot on the machines where automation tasks will be performed.
 
   <br>
   
-   <li>Documentation and Deployment:  </li><br>
+   <li>Execute Automation Workflows </li><br>
    
-  - Document your code, including details on how to use it, dependencies, and potential configuration options.
-  - If applicable, consider deploying your Traffic Violation  detection system in a production environment.
-   
+  - Execute the automation workflows using UiPath Robot, either in attended mode (human-triggered) or unattended mode (scheduled or triggered by events).
   <br>
   
-  <li>Share and Collaborate:  </li><br>
+  <li>Monitor and Maintain Automation Workflows</li><br>
     
-  - Share your project on platforms like GitHub to allow collaboration and feedback from the community. 
-
+- Document the installation process, configuration settings, and automation workflows.
   <br>
   
 </ol>
@@ -302,20 +297,11 @@ Thank you to everyone involved in making this project a reality.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Technology Shields and URLs -->
-[ComputerVision.shield]: https://img.shields.io/badge/Computer_Vision-333333?style=for-the-badge
-[ComputerVision.url]: https://en.wikipedia.org/wiki/Computer_vision
+[UiPath]:(https://img.shields.io/badge/UiPath-333333?style=for-the-badge)](https://www.uipath.com/)
+[UiPath]: (https://www.uipath.com/)
 
-[OpenCV.shield]: https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
-[OpenCV.url]: https://opencv.org/
+[Work Fusion]:(https://img.shields.io/badge/Work_Fusion-5C3EE8?style=for-the-badge&logo=workfusion&logoColor=white)
+[Work Fusion]:(https://www.workfusion.com/)
 
-[DeepLearning.shield]: https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge
-[DeepLearning.url]: https://en.wikipedia.org/wiki/Deep_learning
-
-[Python.shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Python.url]: https://www.python.org/
-
-[RaspberryPi.shield]: https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white
-[RaspberryPi.url]: https://www.raspberrypi.org/
-
-[CascadeTrainer.shield]: https://img.shields.io/badge/Cascade_Trainer-00AEEF?style=for-the-badge
-[CascadeTrainer.url]: https://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html
+[Blue Prism]:(https://img.shields.io/badge/Blue_Prism-FF6F61?style=for-the-badge&logo=blueprism&logoColor=white)]
+[Blue Prism]:(https://www.blueprism.com/)
