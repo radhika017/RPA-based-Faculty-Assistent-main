@@ -175,7 +175,7 @@ Follow these steps to install and set up the :
   
   <li>Set Up Development Environment</li><br>
   
-  -Create a new project in UiPath Studio specifically for the Faculty Assistant project.<br>
+  - Create a new project in UiPath Studio specifically for the Faculty Assistant project.<br>
     <br>
   
   <li>Develop Automation Workflows:</li><br>
