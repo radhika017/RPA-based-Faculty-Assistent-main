@@ -79,30 +79,29 @@ The technologies ,tools and the framework used to develop this project are liste
 <!-- GETTING STARTED -->
 ## <h1>Getting Started</h1>
 <p align="Justify">
-<h3>Setup Enivronmet</h3>
+<h3>Install UiPath Studio:</h3>
 <ol>
-  <li>install Python</li>
-  <li>Set up a virtual environment.</li>
-   <li>Set up a virtual environment.</li> 
+  <li>Download and install UiPath Studio from the UiPath website.</li>
 </ol>
-      <h3> Acquire Data:</h3>
-      <p>Gather relevant image or video datasets.</p>
+      <h3> Acquire Necessary Licenses:</h3>
+      <p>Ensure you have the necessary licenses for UiPath Studio and Orchestrator if you plan to use it for enterprise-level automation.</p>
 
-<h3>Explore Tutorials:</h3>
-<p>Familiarize with tutorials and documentation for OpenCV and TensorFlow.</p>
+<h3>Launch UiPath Studio:</h3>
+<p>Open UiPath Studio after installation.</p>
 
   
-<h3>Start Simple:</h3>
-<P>Begin with basic examples to understand image processing and object detection.</P>
+<h3>Design Automation Workflow:</h3>
+<P>Use UiPath Studio's drag-and-drop interface to design your automation workflow.</P>
 
-<h3>Train Models:</h3>
-<P>Train deep learning models using transfer learning and fine-tuning.</P>
+<h3>Debug and Test:</h3>
+<P>Use debugging tools provided by UiPath Studio to test and troubleshoot your automation workflow.</P>
 
-<h3>Evaluate and Iterate :</h3>
-<P>Evaluate model performance and iterate for improvement.</P>
+<h3>Deploy and Execute:</h3>
+<P>Deploy the published package to UiPath Robot.</P><br>
+<p>Schedule the bot to run at specified intervals using UiPath Orchestrator.</P>
 
-<h3>Integration and Deployment :</h3>
-<P>Integrate models into your application and deploy as needed.</P>
+<h3>Monitor and Maintain:</h3>
+<P>Monitor bot execution using UiPath Orchestrator, Update and maintain the automation workflows</P>
 
 <br>
 
