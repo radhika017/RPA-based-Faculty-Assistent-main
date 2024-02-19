@@ -67,7 +67,6 @@ UiPath provides a comprehensive set of tools and features that make it well-suit
 ### Built With
 
 The technologies ,tools and the framework used to develop this project are listed below<br>
-* [![Automation Anywhere](2.http://www.ir.juit.ac.in:8080/jspui/bitstream/123456789/22756/1/RPA%20AUTOMATION%20ANYWHERE.pdf)](https://www.automationanywhere.com/)
 * [![UiPath](https://img.shields.io/badge/UiPath-333333?style=for-the-badge)](https://www.uipath.com/)
 * [![Work Fusion](https://img.shields.io/badge/Work_Fusion-5C3EE8?style=for-the-badge&logo=workfusion&logoColor=white)](https://www.workfusion.com/)
 * [![Blue Prism](https://img.shields.io/badge/Blue_Prism-FF6F61?style=for-the-badge&logo=blueprism&logoColor=white)](https://www.blueprism.com/)
@@ -298,8 +297,6 @@ Thank you to everyone involved in making this project a reality.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Technology Shields and URLs -->
-[Automation Anywhere]:(https://example.com/path/to/your/image.png)](https://www.automationanywhere.com/)
-[Automation Anywhere]: (https://www.automationanywhere.com/)
 
 [UiPath]: (https://img.shields.io/badge/UiPath-333333?style=for-the-badge)](https://www.uipath.com/)
 [UiPath]: (https://www.uipath.com/)
