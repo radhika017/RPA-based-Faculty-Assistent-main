@@ -97,7 +97,7 @@ The technologies ,tools and the framework used to develop this project are liste
 <P>Use debugging tools provided by UiPath Studio to test and troubleshoot your automation workflow.</P>
 
 <h3>Deploy and Execute:</h3>
-<P>Deploy the published package to UiPath Robot.</P><br>
+<P>Deploy the published package to UiPath Robot.</P>
 <p>Schedule the bot to run at specified intervals using UiPath Orchestrator.</P>
 
 <h3>Monitor and Maintain:</h3>
