@@ -82,7 +82,7 @@ The technologies ,tools and the framework used to develop this project are liste
 <h3>Install UiPath Studio:</h3>
 <ol>
   <li>Download UiPath Studio from the UiPath website.</li>
-  <li>install UiPath Studio from the UiPath website.</li>
+  <li>Install UiPath Studio from the UiPath website.</li>
 </ol>
       <h3> Acquire Necessary Licenses:</h3>
       <p>Ensure you have the necessary licenses for UiPath Studio and Orchestrator if you plan to use it for enterprise-level automation.</p>
